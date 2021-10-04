@@ -1,7 +1,7 @@
 # BotSpot.AI
 Intern Assignment 
 
-#SignIN & SignOUT Template with common validation
+# SignIN & SignOUT Template with common validation
 
 ##Check out !!!
 
