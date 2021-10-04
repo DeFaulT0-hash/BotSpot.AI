@@ -1,0 +1,2 @@
+# BotSpot.AI
+Intern Assignment
